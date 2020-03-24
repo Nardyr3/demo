@@ -26,7 +26,15 @@
           "specialisations": "Groupe DL",
           "course": "9.1 Projet",
           "room": "M167"
-      }    
+      },
+      {
+          "id": "4",
+          "date": "2020-03-26",
+          "teacher": "M.Moret",
+          "specialisations": "Groupe DL",
+          "course": "9.1 Projet",
+          "room": "M167"
+      }
     ]
   }
 }
