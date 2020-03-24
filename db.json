@@ -1,8 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "timetable": [
+    {
+            "id": "1",
+            "date": "2020-03-24",
+            "teacher": "M.Moret",
+            "specialisations": "Groupe DL",
+            "course": "9.1 Projet",
+            "room": "M167"
+        },
+        {
+            "id": "2",
+            "date": "2020-03-24",
+            "teacher": "M.Moret",
+            "specialisations": "Groupe DL",
+            "course": "9.1 Projet",
+            "room": "M167"
+        },
+        {
+            "id": "3",
+            "date": "2020-03-25",
+            "teacher": "M.Moret",
+            "specialisations": "Groupe DL",
+            "course": "9.1 Projet",
+            "room": "M167"
+        }    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
