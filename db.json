@@ -1,40 +1,32 @@
-{
-  "timetable": {
-    "status": "ok",
-    "message": "Timetable Is Found",
-    "data": [
-      {
-        "id": "1",
-        "date": "2020-03-24",
-        "teacher": "M.Moret",
-        "specialisations": "Groupe DL",
-        "course": "9.1 Projet",
-        "room": "M167"
-      },
-      {
-          "id": "2",
-          "date": "2020-03-24",
-          "teacher": "M.Moret",
-          "specialisations": "Groupe DL",
-          "course": "9.1 Projet",
-          "room": "M167"
-      },
-      {
-          "id": "3",
-          "date": "2020-03-25",
-          "teacher": "M.Moret",
-          "specialisations": "Groupe DL",
-          "course": "9.1 Projet",
-          "room": "M167"
-      },
-      {
-          "id": "4",
-          "date": "2020-03-26",
-          "teacher": "M.Moret",
-          "specialisations": "Groupe DL",
-          "course": "9.1 Projet",
-          "room": "M167"
-      }
-    ]
+[
+  {
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "date": "string",
+    "teacher": {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "firstName": "string",
+      "lastName": "string",
+      "email": "user@example.com"
+    },
+    "specialisations": {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "name": "string",
+      "students": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "firstName": "string",
+          "lastName": "string",
+          "email": "user@example.com"
+        }
+      ]
+    },
+    "course": {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "mandatory": true,
+      "type": "TD"
+    },
+    "room": {
+      "roomNumber": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+    }
   }
-}
+]
