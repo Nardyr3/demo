@@ -1,32 +1,33 @@
 
-{
-  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-  "date": "string",
-  "teacher": {
+[
+  {
     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "firstName": "string",
-    "lastName": "string",
-    "email": "user@example.com"
-  },
-  "specialisations": {
-    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "name": "string",
-    "students": [
-      {
-        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-        "firstName": "string",
-        "lastName": "string",
-        "email": "user@example.com"
-      }
-    ]
-  },
-  "course": {
-    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "mandatory": true,
-    "type": "TD"
-  },
-  "room": {
-    "roomNumber": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+    "date": "string",
+    "teacher": {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "firstName": "string",
+      "lastName": "string",
+      "email": "user@example.com"
+    },
+    "specialisations": {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "name": "string",
+      "students": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "firstName": "string",
+          "lastName": "string",
+          "email": "user@example.com"
+        }
+      ]
+    },
+    "course": {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "mandatory": true,
+      "type": "TD"
+    },
+    "room": {
+      "roomNumber": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+    }
   }
-}
-
+]
